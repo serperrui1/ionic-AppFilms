@@ -10,3 +10,4 @@
 * Buscador de peliculas.
 * Apartado de favoritos por géneros.
 
+## CI con Firebase y GitHub
