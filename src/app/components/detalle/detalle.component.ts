@@ -45,4 +45,5 @@ export class DetalleComponent implements OnInit {
     const existe = this.dataLocalService.guardarPelicula( this.pelicula );
     this.estrella = ( existe ) ? 'star' : 'star-outline';
   }
+  mostrar(){this.oculto = 5000}
 }
